@@ -15,9 +15,9 @@ intents.members = True
 # Edit these!
 kmcode = commands.Bot(command_prefix = "!", intents=intents)
 #اي دي تشانيل ترحيب
-kmchannel_id = 815917819543158824
+kmchannel_id = 1156983438524551324
 #اي دي سيرفر 
-kmguild_id = 804827461644189726
+kmguild_id = 1156983438054797375
 #لا تلعب بذي 
 path = "kmwelcome.png"
 #اسم صورة الترحيب 
